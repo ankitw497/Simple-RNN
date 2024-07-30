@@ -65,3 +65,10 @@ streamlit run app.py
   <img src="Images/positive_review.png" alt="positive" style="width: 45%;"/>
   <img src="Images/negative_review.png" alt="negative" style="width: 45%;"/>
 </div>
+
+### Credits
+
+- **Model and Code:** Ankit Wahane
+- **Dataset:** [IMDB Movie Reviews](https://ai.stanford.edu/~amaas/data/sentiment/)
+- **Header Image:** Generated using OpenAI's DALL-E
+- **Course:** Part of GenAI end to end course by Krish Naik
